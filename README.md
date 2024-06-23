@@ -5,7 +5,8 @@
 2. Link domain to VPS
 3. Install Ubuntu to VPS
 ## second step
-Download script.sh to VPS server
+Download script.sh to VPS server:
+
 wget https://raw.githubusercontent.com/jawj/IKEv2-setup/master/setup.sh
 chmod u+x setup.sh
 ./setup.sh
